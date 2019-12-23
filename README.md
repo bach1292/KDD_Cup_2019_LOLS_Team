@@ -11,7 +11,7 @@ This solution got rank 7th in the competition
 
 Poster: https://github.com/bach1292/KDD_Cup_2019_LOLS_Team/blob/master/Poster.pdf
 
-Paper: Updating
+Paper: http://arxiv.org/abs/1910.08926
 
 
 
